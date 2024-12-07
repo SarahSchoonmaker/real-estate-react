@@ -47,7 +47,7 @@ In order for those projects to work, you'll need to have: <br/>
 - To clone the repo locally by doing -
 
 ```sh
-git clone https://github.com/Midhunkumar-se/realtor-react.git
+git clone https://github.com/SarahSchoonmaker/real-estate-react.git
 ```
 
 ### Step 2: Install dependencies
@@ -273,17 +273,3 @@ In <b>Profile Page</b> You see <b>sign out</b> link below your email click that 
   <img src="readme-images/3-project/5-signOut/signOut.png"/>
   <img src="readme-images/2-home/homePage.png">
   </kbd>
-
-  ##### And that wraps it up !
-
-  ## Author
-
-👤 **Midhun Kumar**
-
-- Linkedin: [@Midhun Kumar](https://www.linkedin.com/in/midhun-kumar-30b108273/)
-- Github: [@Midhun Kumar](https://github.com/Midhunkumar-se)
-
-## Show your support
-
-Please ⭐️ this repository if you liked the project!
-# real-estate-react
